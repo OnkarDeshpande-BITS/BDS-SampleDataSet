@@ -1,0 +1,47 @@
+{"_id":0,"name":"Artificial Intelligence", "credits": 4 }
+{"_id":1,"name":"Cloud Computing", "credits": 5 }
+{"_id":2,"name":"Dev-Ops", "credits": 4 }
+{"_id":3,"name":"Design and Analysis of Algorithms", "credits": 4 }
+{"_id":4,"name":"Computer Architecture and Organisation", "credits": 4 }
+{"_id":5,"name":"Discrete Mathematics", "credits": 4 }
+{"_id":6,"name":"Database Management Systems", "credits": 4 }
+{"_id":7,"name":"Software Engineering", "credits": 5 }
+{"_id":8,"name":"Multi-device Programming", "credits": 4 }
+{"_id":9,"name":"Advanced Java Programming", "credits": 4 }
+{"_id":10,"name":"Computer Forensics", "credits": 4 }
+{"_id":11,"name":"Machine Learning", "credits": 4 }
+{"_id":12,"name":"Programming in Python", "credits": 3 }
+{"_id":13,"name":"Mobile Application Development", "credits": 4 }
+{"_id":14,"name":"Data Engineering", "credits": 4 }
+{"_id":15,"name":"Web Development", "credits": 3 }
+{"_id":16,"name":"Database management systems", "credits": 4 }
+{"_id":17,"name":"Object-oriented system", "credits": 5 }
+{"_id":18,"name":"Language Processor", "credits": 4 }
+{"_id":19,"name":"Software Systems Lab", "credits": 4 }
+{"_id":20,"name":"Financial Management and accounts", "credits": 3 }
+{"_id":21,"name":"Software Architectures ", "credits": 4 }
+{"_id":22,"name":"Software Quality Management", "credits": 4 }
+{"_id":23,"name":" Data Mining ", "credits": 4 }
+{"_id":24,"name":"Hardware Software Co-Design", "credits": 5 }
+{"_id":25,"name":"Data Storage Technologies and Networks", "credits": 3 }
+{"_id":26,"name":"Cryptography", "credits": 4 }
+{"_id":27,"name":"Cloud Computing", "credits": 4 }
+{"_id":28,"name":"Cloud Computing-II", "credits": 4 }
+{"_id":29,"name":" Deep Learning ", "credits": 3 }
+{"_id":30,"name":"Data Visualization", "credits": 4 }
+{"_id":31,"name":"Big Data Systems", "credits": 4 }
+{"_id":32,"name":"Data Warehousing", "credits": 4 }
+{"_id":33,"name":"Edge Computing", "credits": 4 }
+{"_id":34,"name":"Machine Learning-II", "credits": 4 }
+{"_id":35,"name":"Embedded Systems Design", "credits": 5 }
+{"_id":36,"name":"BlockChain Technologies", "credits": 4 }
+{"_id":37,"name":"Agile Software Practices", "credits": 4 }
+{"_id":38,"name":" Secure Software Engineering", "credits": 3 }
+{"_id":39,"name":"Ethical Hacking", "credits": 3 }
+{"_id":40,"name":"Software Project Management", "credits": 3 }
+{"_id":41,"name":"Probability and Statistics ", "credits": 3 }
+{"_id":42,"name":"Cyber Security", "credits": 4 }
+{"_id":43,"name":"Compiler Design", "credits": 4 }
+{"_id":44,"name":"Network Security", "credits": 4 }
+{"_id":45,"name":"Advanced DataStructure & Algorithms", "credits": 5 }
+{"_id":46,"name":"System Design", "credits": 4 }
